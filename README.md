@@ -16,3 +16,24 @@ Adventure work has been experiencing high customer churn which refers to the los
 **Methodology**
 The ETL (Extract, Transform, Load) process was utilized as the methodology of choice to extrapolate pertinent information for this analysis. Azure Data Studio database was used to write queries to extract the required data and the results retrieved was saved in Excel to be transformed in Power BI. Data Tranformation in Power BI was used for
 cleaning, filtering, aggregating and manipulating the data.
+
+**SQL Query**
+
+SELECT 
+    c.CustomerID,
+    p.FirstName + ' ' + p.LastName AS FullName,
+    MAX(soh.OrderDate) AS LastOrderDate,
+    DATEDIFF(DAY, MAX(soh.OrderDate), GETDATE()) AS DaysSinceLastPurchase
+FROM Sales.SalesOrderHeader soh
+JOIN Sales.Customer c ON soh.CustomerID = c.CustomerID
+JOIN Person.Person p ON c.PersonID = p.BusinessEntityID
+GROUP BY c.CustomerID, p.FirstName, p.LastName
+HAVING DATEDIFF(DAY, MAX(soh.OrderDate), GETDATE()) > 180 -- customers inactive for over 6 months
+ORDER BY DaysSinceLastPurchase DESC;
+
+**KEY FINDINGS**
+First the customers were categorized into different segments based on the last time they made a purchase at Adventure works
+
+
+
+ ![Screenshot (376)](https://github.com/Tolulope88/Library-Loan-Solution/blob/main/Screenshot%20(376).png)
