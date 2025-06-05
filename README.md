@@ -32,8 +32,36 @@ HAVING DATEDIFF(DAY, MAX(soh.OrderDate), GETDATE()) > 180 -- customers inactive 
 ORDER BY DaysSinceLastPurchase DESC;
 
 **KEY FINDINGS**
+
 First the customers were categorized into different segments based on the last time they made a purchase at Adventure works
 
+ ![Screenshot (378)](https://github.com/Tolulope88/Customer-Churn-Analysis-for-a-retail-company-using-SQL/blob/main/Screenshot%20(378).png)
 
 
+
+
+  ![Screenshot (381)](https://github.com/Tolulope88/Customer-Churn-Analysis-for-a-retail-company-using-SQL/blob/main/Screenshot%20(381).png)
+
+
+
+
+   ![Screenshot (382)](https://github.com/Tolulope88/Customer-Churn-Analysis-for-a-retail-company-using-SQL/blob/main/Screenshot%20(382).png)
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  ![Screenshot (376)](https://github.com/Tolulope88/Customer-Churn-Analysis-for-a-retail-company-using-SQL/blob/main/Screenshot%20(376).png)
