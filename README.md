@@ -66,6 +66,13 @@ discount on their next order.
 
 
 
+ ![Screenshot (384)](https://github.com/Tolulope88/Customer-Churn-Analysis-for-a-retail-company-using-SQL/blob/main/Screenshot%20(384).png)
+
+
+
+
+
+
 
 
  
