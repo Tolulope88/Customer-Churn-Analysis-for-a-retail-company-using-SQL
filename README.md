@@ -52,6 +52,18 @@ First the customers were categorized into different segments based on the last t
 how to serve them better. Targeted emails with personalized offers can be sent.
 
 
+**Market Survey:** Adventure work  can conduct survey to glean customer concerns regarding infrequency of purchase. Offer those that have not shopped in the last 12 months a
+discount on their next order.
+
+**Provide limited time offers:** To encourage dormant customers to take action, I recommend limited time offers to elicit a sense of urgency in the minds of customers.
+
+**Referral Programs:** Encourage existing customers to refer dormant and prospective customers to your business by offering incentives such as discounts or freebies.
+
+**Social Media Campaign:** A multi -pronged approach that targets the most popular social media platforms can be deployed to maximize potential reach. Facebook Ads, Intagram Ads, Tik Tok ads can make an impact on the brands visibility and encourage top of mind recall.
+
+
+
+
 
 
 
