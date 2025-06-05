@@ -36,4 +36,4 @@ First the customers were categorized into different segments based on the last t
 
 
 
- ![Screenshot (376)](https://github.com/Tolulope88/Library-Loan-Solution/blob/main/Screenshot%20(376).png)
+ ![Screenshot (376)](https://github.com/Tolulope88/Customer-Churn-Analysis-for-a-retail-company-using-SQL/blob/main/Screenshot%20(376).png)
