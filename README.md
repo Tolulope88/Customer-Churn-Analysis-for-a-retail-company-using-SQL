@@ -45,7 +45,12 @@ First the customers were categorized into different segments based on the last t
 
 
 
-   ![Screenshot (382)](https://github.com/Tolulope88/Customer-Churn-Analysis-for-a-retail-company-using-SQL/blob/main/Screenshot%20(382).png)
+
+**CUSTOMER RETENTION STRATEGY**
+
+**Email Marketing:**  Reach out to customers via email provided to get feedback on products and services, suggestions for improvement and
+how to serve them better. Targeted emails with personalized offers can be sent.
+
 
 
 
