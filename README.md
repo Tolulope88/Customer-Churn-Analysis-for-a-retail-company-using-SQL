@@ -1,6 +1,8 @@
 # Customer-Churn-Analysis-for-a-retail-company-using-SQL
 
 **Project Overview**
+
+
 This project aims to analyze customer behavior on Adventure work shopping platform to identify key drivers of churn and develop actionable insights that help the business reduce customer attrition, retain valuable customers, and increase long-term revenue.
 
 
@@ -12,6 +14,8 @@ Source: Adventure Works
 
 
 **Business Goal**
+
+
 Adventure work has been experiencing high customer churn which refers to the loss of clients or customers. High churn rates can significantly affect a company’s revenue and growth. This analysis is aimed at helping the marketing and customer success teams:
 1. Detect at-risk customers early.
 2. Optimize retention strategies.
@@ -19,6 +23,8 @@ Adventure work has been experiencing high customer churn which refers to the los
 4. Reduce customer churn rate by providing actionable insights to the marketing and customer success teams.
 
 **Methodology**
+
+
 The ETL (Extract, Transform, Load) process was utilized as the methodology of choice to extrapolate pertinent information for this analysis. Azure Data Studio database was used to write queries to extract the required data and the results retrieved was saved in Excel to be transformed in Power BI. Data Tranformation in Power BI was used for
 cleaning, filtering, aggregating and manipulating the data.
 
