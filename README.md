@@ -42,7 +42,15 @@ GROUP BY c.CustomerID, p.FirstName, p.LastName
 HAVING DATEDIFF(DAY, MAX(soh.OrderDate), GETDATE()) > 180 -- customers inactive for over 6 months
 ORDER BY DaysSinceLastPurchase DESC;
 
+
+
+
+
+
 **Customer Segementation**
+
+
+
 First the customers were categorized into different segments based on the last time they made a purchase at Adventure works
 
  ![Screenshot (378)](https://github.com/Tolulope88/Customer-Churn-Analysis-for-a-retail-company-using-SQL/blob/main/Screenshot%20(378).png)
