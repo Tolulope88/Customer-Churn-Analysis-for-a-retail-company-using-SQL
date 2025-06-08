@@ -48,6 +48,13 @@ First the customers were categorized into different segments based on the last t
  ![Screenshot (378)](https://github.com/Tolulope88/Customer-Churn-Analysis-for-a-retail-company-using-SQL/blob/main/Screenshot%20(378).png)
 
 
+
+   ![Screenshot (381)](https://github.com/Tolulope88/Customer-Churn-Analysis-for-a-retail-company-using-SQL/blob/main/Screenshot%20(381).png)
+
+
+
+
+
 **KEY FINDINGS**
 
 1. 68.09% of the customers have not shopped in the last two months
@@ -57,9 +64,6 @@ First the customers were categorized into different segments based on the last t
 
 
 
-
-
-  ![Screenshot (381)](https://github.com/Tolulope88/Customer-Churn-Analysis-for-a-retail-company-using-SQL/blob/main/Screenshot%20(381).png)
 
 
 
