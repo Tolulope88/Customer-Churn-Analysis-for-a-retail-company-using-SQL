@@ -119,6 +119,25 @@ discount on their next order.
 
 
 
+
+
+
+
+
+
+
+
+**Recommendation**
+
+
+
+
+
+ ![Screenshot (388)](https://github.com/Tolulope88/Customer-Churn-Analysis-for-a-retail-company-using-SQL/blob/main/Screenshot%20(388).png)
+
+
+
+
  
  
  
