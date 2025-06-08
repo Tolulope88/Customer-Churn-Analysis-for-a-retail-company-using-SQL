@@ -5,6 +5,8 @@ This project aims to analyze customer behavior on Adventure work shopping platfo
 
 
 **Data Set**
+
+
 Source: Adventure Works
 
 
