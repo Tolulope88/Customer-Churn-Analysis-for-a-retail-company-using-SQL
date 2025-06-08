@@ -62,6 +62,24 @@ First the customers were categorized into different segments based on the last t
 
 
 
+ **KEY FINDINGS**
+
+1. 68.09% of the customers have not shopped in the last two months.
+2. North America has the highest number of shoppers.
+3. The most bought item on the website is Water bottle with a total of 4,700 units sold.
+4. The total number of customers are 19,120 however only 40% of them are active shoppers.
+
+
+
+
+
+
+ ![Screenshot (384)](https://github.com/Tolulope88/Customer-Churn-Analysis-for-a-retail-company-using-SQL/blob/main/Screenshot%20(384).png)
+
+
+
+
+
 
 
 **CUSTOMER RETENTION STRATEGY**
@@ -84,7 +102,7 @@ discount on their next order.
 
 
 
- ![Screenshot (384)](https://github.com/Tolulope88/Customer-Churn-Analysis-for-a-retail-company-using-SQL/blob/main/Screenshot%20(384).png)
+
 
 
 
@@ -102,12 +120,7 @@ discount on their next order.
  
  
  
- **KEY FINDINGS**
 
-1. 68.09% of the customers have not shopped in the last two months
-2. North America has the highest number of shoppers
-3. The most bought item on the website is Water bottle with a total of 4,700 units sold
-4. The total number of customers are 19,120 however only 40% of them are active shoppers
  
  
  
