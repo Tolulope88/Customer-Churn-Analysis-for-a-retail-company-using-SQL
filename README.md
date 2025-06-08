@@ -1,8 +1,7 @@
 # Customer-Churn-Analysis-for-a-retail-company-using-SQL
 
 **Project Overview**
-Objective: Analyze customer behavior to identify factors contributing to customer churn and build a predictive model to flag at-risk customers.
-
+This project aims to analyze customer behavior on Adventure work shopping platform to identify key drivers of churn and develop actionable insights that help the business reduce customer attrition, retain valuable customers, and increase long-term revenue.
 **Data Set**
 Source: Adventure Works
 
