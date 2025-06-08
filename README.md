@@ -82,10 +82,9 @@ First the customers were categorized into different segments based on the last t
 
 
 
- ![Screenshot (384)](https://github.com/Tolulope88/Customer-Churn-Analysis-for-a-retail-company-using-SQL/blob/main/Screenshot%20(384).png)
 
 
-
+ ![Screenshot (376)](https://github.com/Tolulope88/Customer-Churn-Analysis-for-a-retail-company-using-SQL/blob/main/Screenshot%20(376).png)
 
 
 
@@ -114,6 +113,7 @@ discount on their next order.
 
 
 
+ ![Screenshot (384)](https://github.com/Tolulope88/Customer-Churn-Analysis-for-a-retail-company-using-SQL/blob/main/Screenshot%20(384).png)
 
 
 
@@ -132,4 +132,4 @@ discount on their next order.
  
  
  
- ![Screenshot (376)](https://github.com/Tolulope88/Customer-Churn-Analysis-for-a-retail-company-using-SQL/blob/main/Screenshot%20(376).png)
+
