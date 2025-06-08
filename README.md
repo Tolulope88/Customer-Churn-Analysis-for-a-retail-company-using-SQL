@@ -2,8 +2,12 @@
 
 **Project Overview**
 This project aims to analyze customer behavior on Adventure work shopping platform to identify key drivers of churn and develop actionable insights that help the business reduce customer attrition, retain valuable customers, and increase long-term revenue.
+
+
 **Data Set**
 Source: Adventure Works
+
+
 
 **Business Goal**
 Adventure work has been experiencing high customer churn which refers to the loss of clients or customers. High churn rates can significantly affect a company’s revenue and growth. This analysis is aimed at helping the marketing and customer success teams:
